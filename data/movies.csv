@@ -1,0 +1,101 @@
+movieId,title,genres
+1,Toy Story (1995),Animation|Children|Comedy
+2,Jumanji (1995),Adventure|Children|Fantasy
+3,Grumpier Old Men (1995),Comedy|Romance
+4,Waiting to Exhale (1995),Comedy|Drama
+5,Father of the Bride Part II (1995),Comedy
+6,Heat (1995),Action|Crime|Thriller
+7,Sabrina (1995),Comedy|Romance
+8,Tom and Huck (1995),Adventure|Children
+9,Sudden Death (1995),Action
+10,GoldenEye (1995),Action|Adventure|Thriller
+11,American President (1995),Comedy|Drama|Romance
+12,Dracula: Dead and Loving It (1995),Comedy|Horror
+13,Balto (1995),Adventure|Animation|Children
+14,Nixon (1995),Drama
+15,Cutthroat Island (1995),Action|Adventure
+16,Casino (1995),Crime|Drama
+17,Sense and Sensibility (1995),Drama|Romance
+18,Four Rooms (1995),Comedy
+19,Ace Ventura (1995),Comedy
+20,Money Train (1995),Action|Comedy|Crime
+21,Copycat (1995),Crime|Thriller
+22,Seven (1995),Crime|Mystery|Thriller
+23,Powder (1995),Drama|Sci-Fi
+24,Leaving Las Vegas (1995),Drama|Romance
+25,Othello (1995),Drama
+26,Now and Then (1995),Children|Drama
+27,Pocahontas (1995),Animation|Children|Romance
+28,City of Lost Children (1995),Adventure|Drama|Fantasy
+29,Shanghai Triad (1995),Crime|Drama
+30,Dead Man Walking (1995),Drama
+31,Braveheart (1995),Action|Drama|War
+32,Taxi Driver (1976),Crime|Drama
+33,Godfather (1972),Crime|Drama
+34,Godfather Part II (1974),Crime|Drama
+35,Dark Knight (2008),Action|Crime|Drama
+36,Inception (2010),Action|Sci-Fi|Thriller
+37,Interstellar (2014),Sci-Fi|Drama
+38,Matrix (1999),Action|Sci-Fi
+39,Gladiator (2000),Action|Drama
+40,Titanic (1997),Drama|Romance
+41,Avatar (2009),Action|Adventure|Sci-Fi
+42,Avengers (2012),Action|Adventure
+43,Iron Man (2008),Action|Sci-Fi
+44,Thor (2011),Action|Fantasy
+45,Doctor Strange (2016),Action|Fantasy
+46,Black Panther (2018),Action|Drama
+47,Joker (2019),Crime|Drama
+48,Parasite (2019),Thriller|Drama
+49,Whiplash (2014),Drama|Music
+50,La La Land (2016),Romance|Drama
+51,Shutter Island (2010),Thriller|Mystery
+52,Fight Club (1999),Drama|Thriller
+53,Pulp Fiction (1994),Crime|Drama
+54,Forrest Gump (1994),Drama|Romance
+55,Shawshank Redemption (1994),Drama
+56,Green Mile (1999),Drama|Fantasy
+57,Prestige (2006),Drama|Mystery
+58,Social Network (2010),Drama
+59,Django Unchained (2012),Drama|Western
+60,Inglourious Basterds (2009),Drama|War
+61,Up (2009),Animation|Family
+62,Coco (2017),Animation|Family
+63,Inside Out (2015),Animation|Drama
+64,WALL-E (2008),Animation|Sci-Fi
+65,Finding Nemo (2003),Animation|Adventure
+66,Monsters Inc (2001),Animation|Comedy
+67,Toy Story 2 (1999),Animation|Comedy
+68,Toy Story 3 (2010),Animation|Comedy
+69,Harry Potter 1 (2001),Fantasy|Adventure
+70,Harry Potter 2 (2002),Fantasy|Adventure
+71,Harry Potter 3 (2004),Fantasy|Adventure
+72,Lord of the Rings 1 (2001),Fantasy|Adventure
+73,Lord of the Rings 2 (2002),Fantasy|Adventure
+74,Lord of the Rings 3 (2003),Fantasy|Adventure
+75,Star Wars IV (1977),Sci-Fi|Adventure
+76,Star Wars V (1980),Sci-Fi|Adventure
+77,Star Wars VI (1983),Sci-Fi|Adventure
+78,Jurassic Park (1993),Adventure|Sci-Fi
+79,Terminator 2 (1991),Action|Sci-Fi
+80,Aliens (1986),Action|Sci-Fi
+81,Predator (1987),Action|Sci-Fi
+82,Die Hard (1988),Action|Thriller
+83,Mad Max Fury Road (2015),Action|Adventure
+84,John Wick (2014),Action|Thriller
+85,Matrix Reloaded (2003),Action|Sci-Fi
+86,Matrix Revolutions (2003),Action|Sci-Fi
+87,Avatar Way of Water (2022),Action|Sci-Fi
+88,Top Gun (1986),Action|Drama
+89,Top Gun Maverick (2022),Action|Drama
+90,Mission Impossible (1996),Action|Thriller
+91,Mission Impossible Fallout (2018),Action|Thriller
+92,Fast and Furious (2001),Action|Crime
+93,Fast Five (2011),Action|Crime
+94,Transformers (2007),Action|Sci-Fi
+95,Transformers Dark (2011),Action|Sci-Fi
+96,Batman Begins (2005),Action|Crime
+97,Dark Knight Rises (2012),Action|Crime
+98,Man of Steel (2013),Action|Sci-Fi
+99,Justice League (2017),Action|Sci-Fi
+100,Wonder Woman (2017),Action|Fantasy
